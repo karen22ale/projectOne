@@ -4,6 +4,9 @@
 .footer{
   padding: 20px 0;
 }
+body{
+  padding-top: 70px;
+}
 html{
   position:relative;
   min-height: 100%;
@@ -20,6 +23,9 @@ body{
 .footer{
   color:#efefef;
   background: #333;
+}
+.footer a{
+  color: #9af7fe ;
 }
  @media only screen and (max-width: 768px) {
    body { margin-bottom: 400px; }
